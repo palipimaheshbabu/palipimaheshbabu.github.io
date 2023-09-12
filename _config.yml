@@ -3,7 +3,7 @@ description: A minimal and beautiful Jekyll theme best for writing and note-taki
 author: Mahesh babu
 avatar: photo.jpg
 email: palipimaheshbabu@gmail.com
-
+github: https://github.com/palipimaheshbabu
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
